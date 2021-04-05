@@ -132,6 +132,7 @@
 
 - [分享陈同学准备深圳老师招聘时侯的一个小技巧](/面试经验/准备深圳教师招聘时候的一个小技巧.md)
 
+- [如何两周速成深圳教师结构化面试](https://mp.weixin.qq.com/s/iyhw1wTKyNUBXj5Bn_daLA)
 
 
 ## 正文内容
@@ -153,6 +154,10 @@
 
 - [职业体验(薪资,假期,福利,班级班级管理等等..)信息汇总](职业体验/README.md)
 
+- [深圳老师的日常生活是什么样的 part1](https://mp.weixin.qq.com/s/B4ZooB-aIYvIs6S4NylPPA)
+
+- [深圳老师的日常生活是什么样的 part2](https://mp.weixin.qq.com/s/5MDyVPGg5DSUjkGhJ-oWLg)
+
 ### 招聘信息
 
 - [2021年深圳老师招聘信息不断更新中](招聘信息/README.md)
@@ -162,6 +167,10 @@
 ### 备考资料 
 
 - [备考资料汇总](备考资料/README.md)
+
+- [两周速成结构化面试](https://mp.weixin.qq.com/s/iyhw1wTKyNUBXj5Bn_daLA)
+
+- [深圳教师结构化打卡活动](https://mp.weixin.qq.com/s/ILsPkFElUstjOzUj2HV85Q)
 
 
 ## 交流联系
